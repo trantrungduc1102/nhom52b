@@ -9,4 +9,5 @@ return 0;
 int main () {
     printf ("Chào Thay va cac ban");
     return 0;
+#include <stdio.h>
 }
